@@ -1,4 +1,4 @@
-PHP Utilities Alpha 1
+PHP Utilities Alpha 2
 =====================
 
 Welcome to PHP Utilities, a collection of useful everyday PHP classes that all work as one.
@@ -22,7 +22,7 @@ Requirements
 Usage Instructions
 =============
 
-Below is a a list of usage guides to assist you with gettting to learn the API of PHP Utilities
+Below is a a list of usage guides to assist you with getting to learn the API of PHP Utilities
 
 
 Requiring the main.class file

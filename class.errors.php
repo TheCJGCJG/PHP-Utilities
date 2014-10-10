@@ -1,16 +1,16 @@
 <?php
 /*======================================================================*\
 || #################################################################### ||
-|| # PHP Utilities Alpha 1                                            # ||
+|| # PHP Utilities Alpha 2                                            # ||
 || # ---------------------------------------------------------------- # ||
 || #         Useful Everyday PHP classes, that work as one!           # ||
 || # ---------------------------------------------------------------- # ||
-|| # All PHP code in this file is ©2014 Matt Kent (@Matt_Kent9)       # ||
-|| # This script is released under The MIT License.                   # ||
+|| #     All PHP code in this file is ©2014 VisionWare Studios        # ||
+|| #        This script is released under The MIT License.            # ||
 || #                                                                  # ||
 || #  --------------- PHP VERSION 5.5.0 OR GREATER -----------------  # ||
 || #                                                                  # ||
-|| #    https://github.com/Kent55 | https://twitter.com/Matt_Kent9    # ||
+|| #                  http://visionware-studios.com                   # ||
 || #################################################################### ||
 \*======================================================================*/
 
