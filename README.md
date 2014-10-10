@@ -34,7 +34,7 @@ Requiring the main.class file
 * This therefore means you only need to require the main class in order
 * to utilise the other classes.
 */
-require_once 'class.main.php'
+require_once 'class.user.php'
 ```
 
 
